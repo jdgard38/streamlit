@@ -1,0 +1,210 @@
+season,week,conference_game,home_team,home_conference,home_division,home_points
+2022,1,False,Western Kentucky,Conference USA,fbs,38
+2022,1,True,Northwestern,Big Ten,fbs,31
+2022,1,False,Florida Memorial University,,,39
+2022,1,False,Jacksonville State,Atlantic Sun,fcs,42
+2022,1,False,UNLV,Mountain West,fbs,52
+2022,1,False,Utah State,Mountain West,fbs,31
+2022,1,False,Illinois,Big Ten,fbs,38
+2022,1,False,Florida State,ACC,fbs,47
+2022,1,True,Florida Atlantic,Conference USA,fbs,43
+2022,1,False,Mercer,Southern,fcs,63
+2022,1,False,Alabama State,SWAC,fcs,23
+2022,1,False,North Carolina,ACC,fbs,56
+2022,1,True,UTEP,Conference USA,fbs,13
+2022,1,False,New Mexico State,FBS Independents,fbs,12
+2022,1,False,Hawai'i,Mountain West,fbs,10
+2022,1,False,New Mexico Highlands,Rocky Mountain,ii,18
+2022,1,False,Southern Connecticut State,Northeast 10,ii,7
+2022,1,False,Michigan Tech,GLIAC,ii,23
+2022,1,False,Akron,Mid-American,fbs,30
+2022,1,False,Clarion,Pennsylvania State Athletic,ii,14
+2022,1,False,Campbell,Big South,fcs,29
+2022,1,False,Wagner,NEC,fcs,31
+2022,1,False,Saginaw Valley State,GLIAC,ii,72
+2022,1,False,Bluefield State,Independent DII,ii,35
+2022,1,False,Chowan,CIAA,ii,3
+2022,1,False,Ashland,Great Midwest Athletic,ii,31
+2022,1,False,Greeneville,South Atlantic,ii,70
+2022,1,False,Indiana State,MVFC,fcs,17
+2022,1,False,PennWest California,Pennsylvania State Athletic,ii,35
+2022,1,False,St. Anselm,Northeast 10,ii,28
+2022,1,True,Oklahoma Baptist,Great American,ii,32
+2022,1,False,Grand Valley State University,GLIAC,ii,25
+2022,1,True,Southern Nazarene,Great American,ii,26
+2022,1,False,Northern Michigan,GLIAC,ii,24
+2022,1,False,Missouri S&T,Great Lakes,ii,20
+2022,1,False,Trine University,Michigan,iii,38
+2022,1,False,Pace,Northeast 10,ii,31
+2022,1,False,Quincy,Great Lakes,ii,15
+2022,1,False,Furman,Southern,fcs,52
+2022,1,False,Gardner-Webb,Big South,fcs,56
+2022,1,True,Washburn,Mid America,ii,45
+2022,1,False,Wheeling,Mountain East,ii,25
+2022,1,True,Southeastern Oklahoma State,Great American,ii,41
+2022,1,False,UVA Wise,South Atlantic,ii,41
+2022,1,False,UCF,American Athletic,fbs,56
+2022,1,True,Southern Arkansas,Great American,ii,62
+2022,1,False,Gannon,Pennsylvania State Athletic,ii,47
+2022,1,True,Northern State,Northern Sun,ii,30
+2022,1,True,Minnesota State Moorhead,Northern Sun,ii,14
+2022,1,True,East Central (OK),Great American,ii,12
+2022,1,False,Virginia Union,CIAA,ii,77
+2022,1,True,Stony Brook,CAA,fcs,14
+2022,1,True,Minnesota Duluth,Northern Sun,ii,31
+2022,1,False,Tennessee,SEC,fbs,59
+2022,1,True,Bemidji State,Northern Sun,ii,34
+2022,1,False,Florida International,Conference USA,fbs,38
+2022,1,False,Valdosta State,Gulf South,ii,36
+2022,1,False,Lakeland,NACC,iii,20
+2022,1,False,Samford,Southern,fcs,27
+2022,1,True,New Hampshire,CAA,fcs,31
+2022,1,False,Oklahoma State,Big 12,fbs,58
+2022,1,False,Toledo,Mid-American,fbs,37
+2022,1,False,Frostburg State,Mountain East,ii,21
+2022,1,False,Pittsburgh,ACC,fbs,38
+2022,1,False,Millsaps,Southern Athletic,iii,21
+2022,1,False,East Tennessee State,Southern,fcs,44
+2022,1,False,UT Martin,OVC,fcs,42
+2022,1,True,Concordia University St Paul,Northern Sun,ii,14
+2022,1,False,Ferris State,GLIAC,ii,36
+2022,1,False,Wake Forest,ACC,fbs,44
+2022,1,True,Missouri Western,Mid America,ii,35
+2022,1,False,Southern Utah,Western Athletic,fcs,44
+2022,1,False,William Jewell,Great Lakes,ii,14
+2022,1,True,Emporia State University,Mid America,ii,42
+2022,1,True,Missouri Southern State,Mid America,ii,7
+2022,1,True,Pittsburg St,Mid America,ii,21
+2022,1,True,Henderson State,Great American,ii,30
+2022,1,False,Tarleton State,Western Athletic,fcs,29
+2022,1,False,East Texas A&M,Southland,fcs,52
+2022,1,False,Northern Illinois,Mid-American,fbs,34
+2022,1,False,Central Arkansas,Atlantic Sun,fcs,14
+2022,1,False,Angelo State,Lone Star,ii,35
+2022,1,False,UAB,Conference USA,fbs,59
+2022,1,False,Missouri,SEC,fbs,52
+2022,1,False,Dickinson State University,,,2
+2022,1,True,Purdue,Big Ten,fbs,31
+2022,1,True,Abilene Christian,Western Athletic,fcs,28
+2022,1,False,Weber State,Big Sky,fcs,41
+2022,1,True,Northwest Missouri St,Mid America,ii,33
+2022,1,False,Minnesota,Big Ten,fbs,38
+2022,1,False,Arizona State,Pac-12,fbs,40
+2022,1,False,Fresno State,Mountain West,fbs,35
+2022,1,False,San José State,Mountain West,fbs,21
+2022,1,False,West Chester,Pennsylvania State Athletic,ii,17
+2022,1,False,Villanova,CAA,fcs,45
+2022,1,False,Salisbury,New Jersey,iii,49
+2022,1,False,Curry College,Commonwealth Coast,iii,20
+2022,1,False,Charlotte,Conference USA,fbs,24
+2022,1,False,Old Dominion,Sun Belt,fbs,20
+2022,1,False,Michigan State,Big Ten,fbs,35
+2022,1,False,Eastern Michigan,Mid-American,fbs,42
+2022,1,False,Westfield State,MSCAC,iii,29
+2022,1,False,Springfield,NEWMAC,iii,42
+2022,1,False,Merrimack,NEC,fcs,17
+2022,1,False,Fitchburg State,MSCAC,iii,33
+2022,1,False,Worcester St,MSCAC,iii,21
+2022,1,False,Merchant Marine Academy,NEWMAC,iii,7
+2022,1,False,Reading,Mid Atlantic,iii,27
+2022,1,False,Franklin & Marshall,Centennial,iii,26
+2022,1,False,Hobart College,Liberty League,iii,36
+2022,1,False,Carnegie Mellon,Presidents',iii,35
+2022,1,False,Duke,ACC,fbs,30
+2022,1,False,Kansas,Big 12,fbs,56
+2022,1,True,Indiana,Big Ten,fbs,23
+2022,1,False,Colorado,Pac-12,fbs,13
+2022,1,False,East Carolina,American Athletic,fbs,20
+2022,1,False,Iowa,Big Ten,fbs,7
+2022,1,False,App State,Sun Belt,fbs,61
+2022,1,False,Charleston Southern,Big South,fcs,38
+2022,1,False,Navy,American Athletic,fbs,7
+2022,1,False,Robert Morris,Big South,fcs,20
+2022,1,False,Bridgewater State,MSCAC,iii,14
+2022,1,False,Southwestern University,American Southwest,iii,7
+2022,1,False,Marietta,Ohio,iii,14
+2022,1,False,Assumption,Northeast 10,ii,3
+2022,1,True,Ohio Dominican,Great Midwest Athletic,ii,28
+2022,1,False,Greensboro College,USA South,iii,48
+2022,1,False,Marist,Pioneer,fcs,12
+2022,1,False,UConn,FBS Independents,fbs,28
+2022,1,False,Texas A&M,SEC,fbs,31
+2022,1,False,Maryland,Big Ten,fbs,31
+2022,1,False,Michigan,Big Ten,fbs,51
+2022,1,False,College Of New Jersey,New Jersey,iii,31
+2022,1,False,Ohio Wesleyan,North Coast,iii,13
+2022,1,False,Allegheny,Presidents',iii,27
+2022,1,False,Delaware Valley,Mid Atlantic,iii,22
+2022,1,False,Cortland,Empire 8,iii,48
+2022,1,False,Salve Regina,Commonwealth Coast,iii,7
+2022,1,False,Brockport,Empire 8,iii,27
+2022,1,False,SUNY Morrisville,Empire 8,iii,10
+2022,1,False,Plymouth State,MSCAC,iii,20
+2022,1,False,Albion,Michigan,iii,52
+2022,1,False,Boston College,ACC,fbs,21
+2022,1,False,Case Western Reserve,Presidents',iii,14
+2022,1,False,Wayland Baptist,,,14
+2022,1,False,UMass Dartmouth,MSCAC,iii,35
+2022,1,False,Virginia,ACC,fbs,34
+2022,1,False,Lafayette,Patriot,fcs,6
+2022,1,False,St. Lawrence,Liberty League,iii,0
+2022,1,False,Rensselaer,Liberty League,iii,14
+2022,1,False,ERSKINE,South Atlantic,ii,49
+2022,1,False,Sewanee,Southern Athletic,iii,50
+2022,1,False,Kalamazoo,Michigan,iii,21
+2022,1,False,William Paterson,New Jersey,iii,28
+2022,1,False,Post University,Independent DII,ii,34
+2022,1,False,Hope College,Michigan,iii,38
+2022,1,False,Lycoming,Mid Atlantic,iii,16
+2022,1,False,Emory & Henry College,South Atlantic,ii,20
+2022,1,False,Butler,Pioneer,fcs,31
+2022,1,False,Methodist,USA South,iii,10
+2022,1,False,Wabash College,North Coast,iii,52
+2022,1,False,Kenyon,North Coast,iii,33
+2022,1,False,Gallaudet,ECFC,iii,14
+2022,1,False,Ripon,Midwest,iii,13
+2022,1,False,Rockford,NACC,iii,41
+2022,1,False,Coe College,American Rivers,iii,56
+2022,1,False,Hartwick,Empire 8,iii,31
+2022,1,False,McDaniel College,Centennial,iii,27
+2022,1,False,Ohio Northern,Ohio,iii,13
+2022,1,False,Grove City College,Presidents',iii,63
+2022,1,False,Alfred State,ECFC,iii,17
+2022,1,False,Washington & Jefferson,Presidents',iii,35
+2022,1,False,Depauw,North Coast,iii,17
+2022,1,False,West Virginia State,Mountain East,ii,29
+2022,1,False,Saint Vincent,Presidents',iii,21
+2022,1,False,Luther,American Rivers,iii,6
+2022,1,False,Augustana (IL),CCIW,iii,34
+2022,1,False,Gettysburg,Centennial,iii,14
+2022,1,False,St John Fisher University,Empire 8,iii,62
+2022,1,False,Montclair State,New Jersey,iii,27
+2022,1,False,Northwood (MI),Great Midwest Athletic,ii,55
+2022,1,False,Truman State,Great Lakes,ii,19
+2022,1,False,Keystone,ECFC,iii,21
+2022,1,False,Bowie State,CIAA,ii,27
+2022,1,False,Bethany (WV),Presidents',iii,26
+2022,1,False,Brevard College,USA South,iii,6
+2022,1,False,Kentucky State,SIAC,ii,10
+2022,1,False,Air Force,Mountain West,fbs,48
+2022,1,False,Widener,Mid Atlantic,iii,20
+2022,1,False,Franklin Pierce,Northeast 10,ii,7
+2022,1,False,Coast Guard,NEWMAC,iii,10
+2022,1,False,University of Mount Union,Ohio,iii,65
+2022,1,False,Mount St. Joseph,Heartland,iii,31
+2022,1,False,Iowa State,Big 12,fbs,42
+2022,1,False,Jacksonville State,Atlantic Sun,fcs,35
+2022,1,False,Maryville College (TN),USA South,iii,24
+2022,1,False,Youngstown State,MVFC,fcs,31
+2022,1,False,Eureka College,NACC,iii,6
+2022,1,False,Bethel (MN),Minnesota,iii,41
+2022,1,False,Saint John's (MN),Minnesota,iii,24
+2022,1,False,Wisconsin-Oshkosh,Wisconsin,iii,52
+2022,15,False,Montana State,Big Sky,fcs,55
+2022,15,False,Sacramento State,Big Sky,fcs,63
+2022,15,False,University of Mount Union,Ohio,iii,34
+2022,15,False,South Dakota State,MVFC,fcs,41
+2022,15,False,Ferris State,GLIAC,ii,38
+2022,15,False,Army,FBS Independents,fbs,20
+2022,15,False,North Central College,CCIW,iii,49
+2022,15,False,Colorado School Of Mines,Rocky Mountain,ii,44
